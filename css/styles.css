@@ -1,0 +1,136 @@
+.heading{
+  text-align: center;
+  margin-top: 150px;
+  margin-right: 50px;
+  margin-bottom: 350px;
+}
+h1{
+  font-size: 80px;
+}
+h3{
+  font-size: 50px;
+}
+em{
+  font-size: 80px;
+  color: #E27D60;
+}
+
+
+
+.button{
+  margin-top: 30px;
+  background-color: white;
+  color: #E27D60;
+  border: 2px solid #E27D60;
+  font-size: 24px;
+  transition-duration: 0.4s;
+  padding: 10px 24px;
+}
+.button:hover{
+  background-color:  #E27D60;
+  color: white;
+}
+
+
+.resumebutton{
+  border: 2px solid white;
+  background-color:  #E27D60;
+  color: white;
+  padding: 10px 10px;
+  font-size: 15px;
+  margin-bottom: 30px;
+
+}
+.resumebutton:hover{
+  background-color: white;
+  color:  #E27D60;
+}
+
+
+.myphoto{
+  height: 200px;
+  width: 200px;
+  margin-top: 50px;
+}
+
+.about-me{
+  margin-top: 50px;
+  color: white;
+  text-align: left;
+}
+
+.about{
+  text-align: center;
+  color: white;
+  margin-top: 30px;
+}
+
+.colored-section{
+  background-color: #E27D60;
+  text-align: center;
+}
+
+.non-colored{
+  margin-top: 100px;
+  text-align: center;
+}
+
+.project{
+  text-align: center;
+  color: black;
+  font-size: 50px;
+}
+
+.appbutton{
+  border: 2px solid #E27D60;
+  padding: 10px 10px;
+  font-size: 15px;
+}
+
+.appbutton:hover{
+  color: white;
+  background-color:  #E27D60;
+
+}
+
+
+
+#footer{
+  text-align: center;
+  margin-top: 100px;
+  background-color: #333333;
+  margin-bottom: 0px;
+  border:solid;
+  height: 300px;
+}
+
+.icons a{
+  font-size: 30px;
+  margin-left: 20px;
+  margin-right: 20px;
+  color: white;
+}
+
+.icons{
+  margin-top: 70px;
+}
+
+.copyright{
+  margin-top: 70px;
+  color: #7c7171;
+  font-size: 20px;
+}
+
+.tanu{
+  color: #7c7171;
+}
+
+.tanu:hover{
+  color:   #E27D60;
+}
+
+hr{
+  border: 0.5px solid #7c7171;
+  margin-top: 60px;
+  width: 500px;
+}
